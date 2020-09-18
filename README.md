@@ -1,31 +1,17 @@
-# reflexjs/gatsby-starter-base
+# Privacy Policy
 
-This is the base starter for kicking off your Gatsby project with Reflex. It ships with `MDX` pages and blocks, a blog, navigation menus and `Reflex UI` for theming components.
+Your privacy is important to us. It is Company’s policy to respect your privacy regarding any information we may collect from you across our website, https://www.isitgood.com, and other sites we own and operate.
 
-## Getting Started
+We only ask for personal information when we truly need it to provide a service to you. We collect it by fair and lawful means, with your knowledge and consent. We also let you know why we’re collecting it and how it will be used.
 
-```sh
-gatsby new site reflexjs/gatsby-starter-base
-```
+We only retain collected information for as long as necessary to provide you with your requested service. What data we store, we’ll protect within commercially acceptable means to prevent loss and theft, as well as unauthorised access, disclosure, copying, use or modification.
 
-## Helpful links
+We don’t share any personally identifying information publicly or with third-parties, except when required to by law.
 
-- [Add a page](https://reflexjs.org/docs/pages)
-- [Add a block and use it on a page](https://reflexjs.org/docs/pages-block)
-- [Create a block that can accept props](https://reflexjs.org/docs/pages-dynamic-block)
-- [Add a blog author](https://reflexjs.org/docs/blog-author)
-- [Create a blog post](https://reflexjs.org/docs/blog-post)
-- [Customize the theme](https://reflexjs.org/docs/theming-create-theme)
-- [Add a nav](https://reflexjs.org/docs/navs#add-a-nav)
+Our website may link to external sites that are not operated by us. Please be aware that we have no control over the content and practices of these sites, and cannot accept responsibility or liability for their respective privacy policies.
 
-## Learn
+You are free to refuse our request for your personal information, with the understanding that we may be unable to provide you with some of your desired services.
 
-Visit [https://reflexjs.org/learn](https://reflexjs.org/learn) to get started with Gatsby and Reflex.
+Your continued use of our website will be regarded as acceptance of our practices around privacy and personal information. If you have any questions about how we handle user data and personal information, feel free to contact us.
 
-## Blocks
-
-Browse the blocks library at [https://reflexjs.org/library/blocks](https://reflexjs.org/library/blocks).
-
-## License
-
-Licensed under the [MIT license](https://github.com/reflexjs/reflex/blob/master/LICENSE).
+This policy is effective as of July 1st, 2020.
